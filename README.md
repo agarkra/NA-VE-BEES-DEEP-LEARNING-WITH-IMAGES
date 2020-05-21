@@ -6,7 +6,7 @@ It becomes challenging when we do this with the help of their apperances in the 
 This notebbok can be used by a individual who is starting working on classification of image as in this project we will be designing a simple deep learning model to detect honey bee or a humbe bee.
 
 The project has these major components
--Importing python libraries like 
+- Importing python libraries like 
   pickle
   pandas
   numpy
